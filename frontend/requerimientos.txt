@@ -1,6 +1,8 @@
-instalacion de npm
+instalacion de los paquetes de node
 npm install 
 
+instalacion de tailwind para los estilos
 npm install tailwindcss @tailwindcss/vite
 
+instalacion de router-dom para las rutas
 npm install react-router-dom
